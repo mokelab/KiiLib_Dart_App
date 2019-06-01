@@ -1,0 +1,16 @@
+name: kiilib_app
+description: Kii Library - application API
+author: fkm <fkm@mokelab.com>
+homepage: https://github.com/mokelab/KiiLib_Dart_HttpClient
+
+version: 0.0.1+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  http: "^0.12.0+2"
+  kiilib_core: "^0.0.1+2"
+
+dev_dependencies:
+  test: "^1.5.1"

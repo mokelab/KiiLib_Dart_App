@@ -1,7 +1,7 @@
 name: kiilib_app
 description: Kii Library - application API
 author: fkm <fkm@mokelab.com>
-homepage: https://github.com/mokelab/KiiLib_Dart_HttpClient
+homepage: https://github.com/mokelab/KiiLib_Dart_App
 
 version: 0.0.1+1
 
